@@ -15,7 +15,7 @@
     "jshint",
     "reporter"
   ],
-  "author": "E-conomic",
+  "author": "debitoor",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/e-conomic/jshint-teamcity-reporter/issues"
